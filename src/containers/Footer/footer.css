@@ -1,0 +1,30 @@
+.portfolio__footer {
+    display: flex;
+    justify-content: center;
+}
+
+.portfolio__footer-contact-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.portfolio__footer-contact-info h4 {
+    font-size: 18px;
+    line-height: 21px;
+    font-family: var(--font-family);
+    color: #fff;
+
+    margin-bottom: 0.9rem;
+}
+
+.portfolio__footer-contact-info a {
+    font-size: 15px;
+    line-height: 17px;
+    font-family: var(--font-family);
+    color: #fff;
+
+    margin: 0.5rem 0;
+    cursor: pointer;
+}
