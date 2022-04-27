@@ -35,13 +35,13 @@
     min-height: 50px;
     width: 10rem;
     font-family: var(--font-family);
-    font-weight: 400;
-    font-size: 20px;
+    font-weight: 800;
+    font-size: 18px;
     line-height: 28px;
-    background: #FF4820;
-    border: 2px solid #FF4820;
+    background: var(--gradient-bar);
+    border: 2px solid var(--gradient-bar);
     padding: 0 1rem;
-    color: #fff;
+    color: #000;
     outline: none;
     cursor: pointer;
     border-radius: 5px;

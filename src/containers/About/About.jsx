@@ -13,7 +13,7 @@ const aboutMeInfo = [
     text: 'I am a believer in the phrase \'Health is Wealth\', and I love to go to the gym and maintain a healthy lifestyle. The gym is almost therapeutic to me; it is a time where I can escape reality and focus on nothing other than improving myself.'
   },
   {
-    title: 'Passionate',
+    title: 'Passionate Doer',
     text: 'One of my greatest strengths is my passion. If I develop a passion for a goal, I will become obsessed with that goal and will stop at nothing to make it happen and am relatively unfazed by hardship or setbacks.'
   },
   {
